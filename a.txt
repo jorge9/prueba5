@@ -1,0 +1,1 @@
+Y si queremos borrar una rama que no ha sido mezclada tendríamos que usar -D en lugar de -d como en el ejemplo de arriba. Ojo que ésto no elimina los archivos mezclados, sino simplemente la rama como contenedor, para eliminar los archivos mezclados (si al final no te gustó) harías un rollback como mostramos en el paso 8.
